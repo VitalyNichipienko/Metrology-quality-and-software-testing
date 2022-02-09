@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculation of metric characteristics of PS", "Calculation of metric characteristics of PS\Calculation of metric characteristics of PS.csproj", "{156DF95F-9DB7-473A-B7B7-0484093CC049}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{156DF95F-9DB7-473A-B7B7-0484093CC049}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{156DF95F-9DB7-473A-B7B7-0484093CC049}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{156DF95F-9DB7-473A-B7B7-0484093CC049}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{156DF95F-9DB7-473A-B7B7-0484093CC049}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {749ADAC1-AF7D-4F11-A272-D603E86C153C}
+	EndGlobalSection
+EndGlobal
